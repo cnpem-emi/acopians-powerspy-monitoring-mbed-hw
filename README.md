@@ -1,2 +1,2 @@
-# pcb-hw
-PCB repository template
+# PCB - acopians-powerspy-monitoring-mbed-hw
+Control and supervision of bpms rack sources
